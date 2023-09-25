@@ -1,0 +1,5 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+https://www.munchies.com.bd/,300,155,137,180,193,292,120,1134,0.00%,1.43238,25.4,0.83
+https://www.munchies.com.bd/restaurant/Khabooz,300,57,52,73,84,129,43,315,0.00%,1.43292,25.83,0.87
+Test,240,211,197,240,259,340,166,1170,0.00%,1.14745,41.03,1.36
+TOTAL,840,136,133,215,232,292,43,1170,0.00%,3.27674,75.32,2.5

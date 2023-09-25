@@ -1,0 +1,12 @@
+Go to:
+
+D:\apache-jmeter-5.6.2\bin>D:\apache-jmeter-5.6.2\bin\
+
+Hit the command:
+
+jmeter -n -t "D:\UDEMYCourses\JMEATER\LoadTesting\RandomController.jmx" -l "D:\UDEMYCourses\JMEATER\LoadTesting\RandomControllerLoadTest.csv"
+
+
+For html report:
+
+jmeter -n -t "D:\UDEMYCourses\JMEATER\LoadTesting\RandomController.jmx" -l "D:\UDEMYCourses\JMEATER\LoadTesting\RandomControllerLoadTest.csv" -e -o "D:\UDEMYCourses\JMEATER\LoadTesting\HTMLReport"

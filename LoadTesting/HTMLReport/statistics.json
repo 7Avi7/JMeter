@@ -1,0 +1,50 @@
+{
+  "Test" : {
+    "transaction" : "Test",
+    "sampleCount" : 200,
+    "errorCount" : 3,
+    "errorPct" : 1.5,
+    "meanResTime" : 446.255,
+    "medianResTime" : 12.0,
+    "minResTime" : 5.0,
+    "maxResTime" : 21058.0,
+    "pct1ResTime" : 56.400000000000034,
+    "pct2ResTime" : 82.59999999999991,
+    "pct3ResTime" : 21032.91,
+    "throughput" : 9.152061501853293,
+    "receivedKBytesPerSec" : 9.026980348807943,
+    "sentKBytesPerSec" : 3.389346213906557
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 200,
+    "errorCount" : 3,
+    "errorPct" : 1.5,
+    "meanResTime" : 446.255,
+    "medianResTime" : 12.0,
+    "minResTime" : 5.0,
+    "maxResTime" : 21058.0,
+    "pct1ResTime" : 56.400000000000034,
+    "pct2ResTime" : 82.59999999999991,
+    "pct3ResTime" : 21032.91,
+    "throughput" : 9.184001469440236,
+    "receivedKBytesPerSec" : 9.058483793107406,
+    "sentKBytesPerSec" : 3.401174762937962
+  },
+  "http://api.demo.hidayahsmart.solutions/docs" : {
+    "transaction" : "http://api.demo.hidayahsmart.solutions/docs",
+    "sampleCount" : 200,
+    "errorCount" : 3,
+    "errorPct" : 1.5,
+    "meanResTime" : 446.255,
+    "medianResTime" : 12.0,
+    "minResTime" : 5.0,
+    "maxResTime" : 21058.0,
+    "pct1ResTime" : 56.400000000000034,
+    "pct2ResTime" : 82.59999999999991,
+    "pct3ResTime" : 21032.91,
+    "throughput" : 9.184001469440236,
+    "receivedKBytesPerSec" : 9.058483793107406,
+    "sentKBytesPerSec" : 3.401174762937962
+  }
+}
